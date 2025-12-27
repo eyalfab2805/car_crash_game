@@ -228,6 +228,5 @@ To run the project:
 
 3. Sync Gradle and run the project.
 
-The API key is injected at build time and is not committed to GitHub.
 
 4. Run the app using emulator/android phone
