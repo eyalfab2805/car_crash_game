@@ -213,14 +213,21 @@ Fragments
 <br/>
 <br/>
 
-## ▶️ How to Run
+## 🔑 Google Maps API Key Setup And How To Run The App
 
-Open the project in Android Studio
+This project uses Google Maps and requires an API key.
 
-Sync Gradle
+For security reasons, the API key is **not included** in the repository.
 
-Run on:
+To run the project:
 
-Emulator (default mock location)
+1. Create a file called `local.properties` in the project root directory.
+2. Add the following line to the file:
 
-Physical device (recommended)
+   MAPS_API_KEY=YOUR_API_KEY_HERE
+
+3. Sync Gradle and run the project.
+
+The API key is injected at build time and is not committed to GitHub.
+
+4. Run the app using emulator/android phone
