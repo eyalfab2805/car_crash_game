@@ -6,11 +6,11 @@ The game includes two control modes, a scoring system, and a Top 10 leaderboard 
 
 📸 Screenshots
 Main Menu
-<img src="d6d30a5d-6c1d-4eae-a632-af7fdd6a62fa.png" width="300"/>
+<img width="420" height="897" alt="Screenshot 2025-12-27 230727" src="https://github.com/user-attachments/assets/480ade25-5b6e-4f4a-9564-552ccecac29a" />
 Gameplay
-<img src="79ac77c1-681e-4d3a-9ed6-9f582dd96195.png" width="300"/>
+<img width="415" height="891" alt="Screenshot 2025-12-27 230751" src="https://github.com/user-attachments/assets/84953d13-e1cd-4caa-9857-e28a2ba66575" />
 Top Ten & Map View
-<img src="4dc9a8a3-7333-43e4-bb8a-edd93bae83d6.png" width="300"/>
+<img width="427" height="906" alt="Screenshot 2025-12-27 230835" src="https://github.com/user-attachments/assets/41de72dd-d53b-47b4-adbd-4aac77939cce" />
 🎮 Gameplay
 
 The player controls a car located at the bottom of the road.
